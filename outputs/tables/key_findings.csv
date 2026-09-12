@@ -1,0 +1,9 @@
+ID,Dimension,Finding,Value
+F1,Overall,Ty le tre chung tren tep phan tich,18.6%
+F2,Season,Thang co ty le dung gio thap nhat: thang 6,76.5% dung gio
+F3,Season,Thang co ty le dung gio cao nhat: thang 10,87.6% dung gio
+F4,Airline,Hang co ty le tre cao nhat: Spirit Air Lines,29.7% (cao hon TB 11.1 diem %)
+F5,Airline,Hang van hanh on dinh nhat: Hawaiian Airlines Inc.,11.3%
+F6,Route,Tuyen rui ro cao nhat (>= 500 chuyen): ORD - ASE,40.6% tren 569 chuyen
+F7,Cause,Nguyen nhan tre chiem ty trong lon nhat: Máy bay đến trễ chuyến trước,39.8% tong phut tre
+F8,Time,Khung gio co ty le tre trung binh cao nhat: 20h,26.1%

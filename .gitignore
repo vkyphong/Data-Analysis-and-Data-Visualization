@@ -1,1 +1,3 @@
 data/raw/*.csv
+flights_cleaned.csv
+data/**/flights_cleaned.csv
