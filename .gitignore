@@ -3,3 +3,4 @@ flights_cleaned.csv
 data/**/flights_cleaned.csv
 flights_DL.csv
 data/**/flights_DL.csv
+data/processed
