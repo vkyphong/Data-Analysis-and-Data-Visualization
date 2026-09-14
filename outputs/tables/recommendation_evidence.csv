@@ -1,6 +1,7 @@
 Finding,Metric,Value,Implication
-Airline,Delay Rate,29.7%,Spirit Air Lines can duoc uu tien ra soat nguyen nhan van hanh
-Peak Hour,Delay Rate,26.1%,Nen tang buffer thoi gian / bo tri may bay du phong vao khung 20h
-Route,Delay Rate,40.6% tren 569 chuyen,Uu tien nguon luc du phong cho tuyen ORD - ASE
-Cause,Share of Delay Minutes,39.8%,"Van de chinh nam o van hanh/xoay vong may bay, can cai thien lich trinh quay dau"
-Season,On-time Rate,Thang 6: 76.5%,Can chuan bi nguon luc du phong truoc mua cao diem (he)
+Airport,Delay Rate,21.9%,San bay LGA can duoc uu tien ra soat nguyen nhan van hanh
+Peak Hour,Delay Rate,20.2%,Nen tang buffer thoi gian / bo tri may bay du phong vao khung 18h
+Route,Delay Rate,"45.8% tren 1,352 chuyen",Uu tien nguon luc du phong cho tuyen SFO - LAX
+Cause,Share of Delay Minutes,37.4%,"Van de chinh nam o van hanh/xoay vong may bay, can cai thien lich trinh quay dau"
+Season,On-time Rate,Thang 2: 80.4%,Can chuan bi nguon luc du phong truoc mua cao diem (he)
+Severity,Median Arrival Delay,Thang 5: 40 phut,"Ngoai tan suat, can chu y thang co muc do tre nghiem trong hon khi len ke hoach du phong"
