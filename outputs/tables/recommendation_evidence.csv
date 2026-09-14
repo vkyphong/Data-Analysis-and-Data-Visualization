@@ -1,0 +1,7 @@
+Finding,Metric,Value,Implication
+Airport,Delay Rate,21.9%,San bay LGA can duoc uu tien ra soat nguyen nhan van hanh
+Peak Hour,Delay Rate,20.2%,Nen tang buffer thoi gian / bo tri may bay du phong vao khung 18h
+Route,Delay Rate,"45.8% tren 1,352 chuyen",Uu tien nguon luc du phong cho tuyen SFO - LAX
+Cause,Share of Delay Minutes,37.4%,"Van de chinh nam o van hanh/xoay vong may bay, can cai thien lich trinh quay dau"
+Season,On-time Rate,Thang 2: 80.4%,Can chuan bi nguon luc du phong truoc mua cao diem (he)
+Severity,Median Arrival Delay,Thang 5: 40 phut,"Ngoai tan suat, can chu y thang co muc do tre nghiem trong hon khi len ke hoach du phong"
