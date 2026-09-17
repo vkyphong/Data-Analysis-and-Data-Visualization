@@ -2,8 +2,8 @@ ID,Dimension,Finding,Value
 F1,Overall,Ty le tre chung toan bo Delta Air Lines,13.6%
 F2,Season,Thang co ty le dung gio thap nhat: thang 2,80.4% dung gio
 F3,Season,Thang co ty le dung gio cao nhat: thang 10,92.2% dung gio
-F4,Airport,San bay khoi hanh co ty le tre cao nhat: LGA,21.9% (cao hon TB 8.4 diem %)
-F5,Route,Tuyen rui ro cao nhat (>= 500 chuyen): SFO - LAX,"45.8% tren 1,352 chuyen"
+F4,Airport,San bay khoi hanh co ty le tre cao nhat: LGA,21.1% (cao hon TB 7.6 diem %)
+F5,Route,Tuyen rui ro cao nhat (>= 500 chuyen): SFO - LAX,"43.8% tren 1,570 chuyen"
 F6,Cause,Nguyen nhan tre chiem ty trong lon nhat: Hãng hàng không,37.4% tong phut tre
 F7,Time,Khung gio co ty le tre cao nhat: 18h,20.2%
 F8,Severity,Thang co muc do tre nghiem trong nhat (median phut tre): thang 5,40 phut
